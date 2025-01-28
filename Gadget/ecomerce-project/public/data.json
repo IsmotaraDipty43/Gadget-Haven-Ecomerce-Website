@@ -1,0 +1,411 @@
+[
+    {
+      "product_id": "101",
+      "product_title": "Apple iPhone 13",
+      "product_image": "https://i.ibb.co.com/MR7Qjk0/iphone.png",
+      "category": "Smartphone",
+      "price": 899.99,
+      "description": "Apple iPhone 13 with A15 Bionic chip, 128GB storage, and 5G capability.",
+      "specifications": [
+        "Processor: A15 Bionic",
+        "Display: 6.1-inch Super Retina XDR",
+        "RAM: 4GB",
+        "Storage: 128GB",
+        "Battery: 3227mAh",
+        "Operating System: iOS 15"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Apple",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "203",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co/JBsqySF/l3.jpg",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "HP Spectre x360 2-in-1 with Intel Core i7, 16GB RAM, and 512GB SSD. Versatile laptop with a stunning touchscreen display.",
+      "specifications": [
+        "Processor: Intel Core i7-1165G7",
+        "Display: 13.3-inch FHD Touchscreen",
+        "RAM: 16GB LPDDR4x",
+        "Storage: 512GB SSD",
+        "Battery Life: Up to 13 hours",
+        "Operating System: Windows 10 Home"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "HP",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "501",
+      "product_title": "Logitech MX Keys Advanced",
+      "product_image": "https://i.ibb.co.com/NpRSxSS/k1.jpg",
+      "category": "Keyboard",
+      "price": 99.99,
+      "description": "Logitech MX Keys is a premium wireless keyboard designed for comfort, stability, and precision, featuring backlit keys and multi-device pairing.",
+      "specifications": [
+        "Connection: Bluetooth, USB receiver",
+        "Battery Life: Up to 10 days (backlit), up to 5 months (without backlight)",
+        "Backlighting: Adjustable",
+        "Compatibility: Windows, macOS, Linux, iOS, Android",
+        "Key Type: Scissor-switch keys",
+        "Features: Multi-device pairing, flow control"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Logitech",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "404",
+      "product_title": "Amazon Echo Dot (4th Gen)",
+      "product_image": "https://i.ibb.co.com/h9XNnWV/s1.jpg",
+      "category": "Accessories",
+      "price": 55.99,
+      "description": "Amazon Echo Dot (4th Gen) smart speaker with Alexa. Voice control your home, play music, and get answers to questions.",
+      "specifications": [
+        "Speaker: 1.6-inch front-firing",
+        "Voice Assistant: Alexa",
+        "Connectivity: Wi-Fi, Bluetooth",
+        "Smart Home: Compatible with many smart devices",
+        "Audio: Rich, balanced sound",
+        "Extra Features: Multi-room music, Alexa routines"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "brand": "Amazon",
+      "warranty": "1 year"
+    },
+
+    {
+      "product_id": "102",
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/TkcDypJ/p2.jpg",
+      "category": "Smartphone",
+      "price": 799.99,
+      "description": "Samsung Galaxy S21 with 8GB RAM, 128GB storage, and a stunning 120Hz display.",
+      "specifications": [
+        "Processor: Exynos 2100",
+        "Display: 6.2-inch FHD+ Dynamic AMOLED",
+        "RAM: 8GB",
+        "Storage: 128GB",
+        "Battery: 4000mAh",
+        "Operating System: Android 11"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "Samsung",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "103",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/qnQBLzw/p3.png",
+      "category": "Smartphone",
+      "price": 599.99,
+      "description": "Google Pixel 6 with Google Tensor processor, excellent camera, and Android 12.",
+      "specifications": [
+        "Processor: Google Tensor",
+        "Display: 6.4-inch AMOLED",
+        "RAM: 8GB",
+        "Storage: 128GB",
+        "Battery: 4614mAh",
+        "Operating System: Android 12"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Google",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "104",
+      "product_title": "OnePlus 9",
+      "product_image": "https://i.ibb.co.com/7W1wGSF/p4.jpg",
+      "category": "Smartphone",
+      "price": 729.99,
+      "description": "OnePlus 9 with Snapdragon 888, fast charging, and 120Hz Fluid Display.",
+      "specifications": [
+        "Processor: Snapdragon 888",
+        "Display: 6.55-inch Fluid AMOLED, 120Hz",
+        "RAM: 8GB",
+        "Storage: 128GB",
+        "Battery: 4500mAh",
+        "Operating System: Android 11, OxygenOS"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "brand": "OnePlus",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "105",
+      "product_title": "Xiaomi Mi 11 Lite",
+      "product_image": "https://i.ibb.co.com/r3XNcFV/p5.jpg",
+      "category": "Smartphone",
+      "price": 329.99,
+      "description": "Xiaomi Mi 11 Lite with Snapdragon 732G and ultra-slim design.",
+      "specifications": [
+        "Processor: Snapdragon 732G",
+        "Display: 6.55-inch AMOLED",
+        "RAM: 6GB",
+        "Storage: 128GB",
+        "Battery: 4250mAh",
+        "Operating System: Android 11, MIUI 12"
+      ],
+      "availability": true,
+      "rating": 4.2,
+      "brand": "Xiaomi",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "106",
+      "product_title": "Sony Xperia 5 III",
+      "product_image": "https://i.ibb.co.com/C7sz8q4/p6.jpg",
+      "category": "Smartphone",
+      "price": 999.99,
+      "description": "Sony Xperia 5 III with Snapdragon 888 and triple camera setup.",
+      "specifications": [
+        "Processor: Snapdragon 888",
+        "Display: 6.1-inch OLED, 120Hz",
+        "RAM: 8GB",
+        "Storage: 128GB",
+        "Battery: 4500mAh",
+        "Operating System: Android 11"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "Sony",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "107",
+      "product_title": "Realme GT",
+      "product_image": "https://i.ibb.co.com/DR0Nv86/p7.jpg",
+      "category": "Smartphone",
+      "price": 449.99,
+      "description": "Realme GT with Snapdragon 888, 64MP camera, and 65W fast charging.",
+      "specifications": [
+        "Processor: Snapdragon 888",
+        "Display: 6.43-inch Super AMOLED, 120Hz",
+        "RAM: 8GB",
+        "Storage: 128GB",
+        "Battery: 4500mAh",
+        "Operating System: Android 11"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "brand": "Realme",
+      "warranty": "1 year"
+    },
+    {
+      "product_id": "108",
+      "product_title": "Oppo Find X3 Pro",
+      "product_image": "https://i.ibb.co.com/qxYjv56/p8.jpg",
+      "category": "Smartphone",
+      "price": 1149.99,
+      "description": "Oppo Find X3 Pro with Snapdragon 888, 50MP quad camera, and 120Hz QHD+ display.",
+      "specifications": [
+        "Processor: Snapdragon 888",
+        "Display: 6.7-inch AMOLED, 120Hz, QHD+",
+        "RAM: 12GB",
+        "Storage: 256GB",
+        "Battery: 4500mAh",
+        "Operating System: Android 11"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Oppo",
+      "warranty": "2 years"
+    },
+        {
+          "product_id": "201",
+          "product_title": "Apple MacBook Air M1",
+          "product_image": "https://i.ibb.co/1vCbv1h/l1.jpg",
+          "category": "Laptop",
+          "price": 999.99,
+          "description": "Apple MacBook Air with M1 chip, 8GB RAM, and 256GB SSD. Lightweight and powerful, ideal for productivity and entertainment.",
+          "specifications": [
+            "Processor: Apple M1",
+            "Display: 13.3-inch Retina",
+            "RAM: 8GB",
+            "Storage: 256GB SSD",
+            "Battery Life: Up to 18 hours",
+            "Operating System: macOS Big Sur"
+          ],
+          "availability": true,
+          "rating": 4.8,
+          "brand": "Apple",
+          "warranty": "1 year"
+        },
+        {
+          "product_id": "202",
+          "product_title": "Dell XPS 13",
+          "product_image": "https://i.ibb.co/tMdycXm/l2.jpg",
+          "category": "Laptop",
+          "price": 1199.99,
+          "description": "Dell XPS 13 with Intel Core i7, 16GB RAM, and 512GB SSD. Compact design with powerful performance.",
+          "specifications": [
+            "Processor: Intel Core i7-1165G7",
+            "Display: 13.4-inch FHD+",
+            "RAM: 16GB LPDDR4x",
+            "Storage: 512GB SSD",
+            "Battery Life: Up to 12 hours",
+            "Operating System: Windows 10 Home"
+          ],
+          "availability": true,
+          "rating": 4.6,
+          "brand": "Dell",
+          "warranty": "1 year"
+        },
+     
+        {
+          "product_id": "204",
+          "product_title": "Asus ROG Zephyrus G14",
+          "product_image": "https://i.ibb.co/hRT1kJM/l4.jpg",
+          "category": "Laptop",
+          "price": 1499.99,
+          "description": "Asus ROG Zephyrus G14 gaming laptop with AMD Ryzen 9, 16GB RAM, and 1TB SSD. Compact and powerful for gaming on the go.",
+          "specifications": [
+            "Processor: AMD Ryzen 9 5900HS",
+            "Display: 14-inch QHD, 120Hz",
+            "RAM: 16GB DDR4",
+            "Storage: 1TB SSD",
+            "Battery Life: Up to 10 hours",
+            "Operating System: Windows 10 Home"
+          ],
+          "availability": true,
+          "rating": 4.8,
+          "brand": "Asus",
+          "warranty": "1 year"
+        },
+            {
+              "product_id": "401",
+              "product_title": "Samsung Galaxy Watch 4",
+              "product_image": "https://i.ibb.co.com/B6FSmzr/w1.jpg ",
+              "category": "Accessories",
+              "price": 249.99,
+              "description": "Samsung Galaxy Watch 4 with fitness tracking, heart rate monitoring, and advanced health features. Perfect for active lifestyles.",
+              "specifications": [
+                "Display: 1.4-inch Super AMOLED",
+                "Battery Life: Up to 40 hours",
+                "Water Resistance: 5 ATM",
+                "Connectivity: Bluetooth, Wi-Fi, NFC",
+                "Compatibility: Android",
+                "Health Features: ECG, Sleep Tracking, SpO2"
+              ],
+              "availability": true,
+              "rating": 4.5,
+              "brand": "Samsung",
+              "warranty": "1 year"
+            },
+            {
+              "product_id": "402",
+              "product_title": "Sony WH-1000XM4",
+              "product_image": "https://i.ibb.co.com/tCYjQXC/h1.jpg ",
+              "category": "Accessories",
+              "price": 349.99,
+              "description": "Sony WH-1000XM4 noise-canceling headphones with exceptional sound quality and long battery life. Ideal for immersive listening.",
+              "specifications": [
+                "Battery Life: Up to 30 hours",
+                "Noise Cancellation: Industry-leading",
+                "Connectivity: Bluetooth 5.0, NFC",
+                "Charging Time: Approx. 3 hours",
+                "Voice Assistant: Alexa and Google Assistant",
+                "Extra Features: Touch controls, Ambient Sound Mode"
+              ],
+              "availability": true,
+              "rating": 4.7,
+              "brand": "Sony",
+              "warranty": "1 year"
+            },
+            {
+              "product_id": "403",
+              "product_title": "Fitbit Charge 5",
+              "product_image": "https://i.ibb.co.com/kqj4fsk/w2.jpg",
+              "category": "Accessories",
+              "price": 179.99,
+              "description": "Fitbit Charge 5 with advanced health metrics, sleep tracking, and built-in GPS. Perfect companion for fitness enthusiasts.",
+              "specifications": [
+                "Display: AMOLED color screen",
+                "Battery Life: Up to 7 days",
+                "Water Resistance: 50 meters",
+                "Health Monitoring: Heart rate, SpO2, Stress",
+                "GPS: Built-in",
+                "Compatibility: iOS and Android"
+              ],
+              "availability": true,
+              "rating": 4.6,
+              "brand": "Fitbit",
+              "warranty": "1 year"
+            },
+            
+            
+               
+                {
+                  "product_id": "502",
+                  "product_title": "Razer BlackWidow V3 Pro",
+                  "product_image": "https://i.ibb.co.com/wK8LMdF/k2.jpg",
+                  "category": "Keyboard",
+                  "price": 229.99,
+                  "description": "Razer BlackWidow V3 Pro mechanical wireless gaming keyboard with RGB lighting and durable keys. Perfect for serious gamers.",
+                  "specifications": [
+                    "Connection: Bluetooth, Razer HyperSpeed wireless, wired",
+                    "Battery Life: Up to 200 hours",
+                    "Switch Type: Razer Green Mechanical Switches",
+                    "Backlighting: Razer Chroma RGB",
+                    "Compatibility: Windows",
+                    "Features: Programmable keys, dedicated media controls"
+                  ],
+                  "availability": true,
+                  "rating": 4.6,
+                  "brand": "Razer",
+                  "warranty": "2 years"
+                },
+                {
+                  "product_id": "503",
+                  "product_title": "Apple Magic Keyboard",
+                  "product_image": "https://i.ibb.co.com/h95Vy19/k3.jpg",
+                  "category": "Keyboard",
+                  "price": 99.00,
+                  "description": "Apple Magic Keyboard with a sleek, compact design, perfect for Apple devices. Features a rechargeable battery and improved key stability.",
+                  "specifications": [
+                    "Connection: Bluetooth, USB-C to Lightning cable",
+                    "Battery Life: Up to 1 month",
+                    "Key Type: Scissor mechanism",
+                    "Compatibility: macOS, iPadOS",
+                    "Layout: Compact design",
+                    "Features: Rechargeable battery, easy pairing with Apple devices"
+                  ],
+                  "availability": true,
+                  "rating": 4.7,
+                  "brand": "Apple",
+                  "warranty": "1 year"
+                },
+                {
+                  "product_id": "504",
+                  "product_title": "Corsair K95 RGB Platinum",
+                  "product_image": "https://i.ibb.co.com/fq7mb4Q/k4.jpg",
+                  "category": "Keyboard",
+                  "price": 199.99,
+                  "description": "Corsair K95 RGB Platinum XT, a mechanical gaming keyboard with dedicated macro keys, customizable RGB lighting, and durable aluminum frame.",
+                  "specifications": [
+                    "Connection: Wired USB",
+                    "Switch Type: Cherry MX Speed Mechanical Switches",
+                    "Backlighting: RGB per-key lighting",
+                    "Compatibility: Windows, macOS",
+                    "Macro Keys: 6 dedicated macro keys",
+                    "Features: Detachable wrist rest, aluminum frame"
+                  ],
+                  "availability": true,
+                  "rating": 4.8,
+                  "brand": "Corsair",
+                  "warranty": "2 years"
+                }
+              ]
+              
+          
+      
+  
