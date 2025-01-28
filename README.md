@@ -7,7 +7,7 @@
 **Gadget Heaven** is a fully responsive e-commerce platform that allows users to browse, view, and purchase gadgets such as smartphones, laptops, keyboards, accessories, and airbuds. The website provides an intuitive user experience, allowing customers to filter products by categories, view detailed product information, and manage their shopping cart and wishlist. The project utilizes React for building interactive UI components, and data is stored persistently using Local Storage for features like cart and wishlist management. The website includes sorting functionality, product purchasing, and an easy-to-navigate dashboard.
 
 ## Requirement Document Link
-(/Gadget Heaven (1).pdf)
+(Gadget Heaven (1).pdf)
 
 # React Fundamental Concepts Used
 - **Props**: Used to pass data from parent components to child components.
